@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h1>Здравствуйте всем! Меня зовут Денис 👋</h1>
-  <h3>ML-Engineer из Ижевска.</h3>
+  <h3>ML-Engineer</h3>
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/whoreNOTOK">
@@ -12,8 +11,7 @@
 </div>
 
 ### Обо мне
--  Студент 2 курса ИжГТУ до 2028 года
--  В настоящее время я изучаю ML, DL и нейронные сети
+-  Студент 2 курса ИжГТУ до 2028 года, в настоящее время я изучаю ML, DL и нейронные сети
 
 ### Языки и технологии
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=bb00db)
